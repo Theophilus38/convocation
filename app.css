@@ -108,7 +108,6 @@ sup {
 @media (min-width: 321px) and (max-width: 768px) {
     h1 {
         font-size: 2rem;
-        border: 1px solid blue;
     }
 
     sup {
