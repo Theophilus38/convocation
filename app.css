@@ -179,7 +179,8 @@ sup {
     }
 
     .quote p{
-        font-size: 0.7rem;
+        font-size: 0.9rem;
         text-align: center;
+        font-weight: 900;
     }
 }
