@@ -108,7 +108,7 @@ sup {
 @media (min-width: 321px) and (max-width: 768px) {
     h1 {
         font-size: 2rem;
-        border: 1px solid red;
+        border: 1px solid blue;
     }
 
     sup {
@@ -143,7 +143,7 @@ sup {
     }
 
     .image2 img {
-        left: 16.9rem;
+        left: 14rem;
         width: 50%;
         bottom: 10rem;
         position: absolute;
